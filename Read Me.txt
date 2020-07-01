@@ -1,3 +1,6 @@
 Important:
 Create Database with name "allphptricks"
 then import the attached transactions.sql file
+
+
+you can try online demo https://www.allphptricks.com/demo/2018/july/consume-rest-api-in-php/
